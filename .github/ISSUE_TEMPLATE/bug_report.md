@@ -5,13 +5,20 @@ about: Create a bug report
 
 # Bug Report
 
+<!-- Please search existing issues to avoid creating duplicates. -->
+
 ## Description (Required)
 
-### Step to reproduce (What did you do?)
 
-### Encountered result (What did you get?)
+### 1. Step to reproduce (What did you do?)
 
-### Expected result (What were you expecting?)
+
+### 2. Encountered result (What did you get?)
+
+
+### 3. Expected result (What were you expecting?)
+
+
 
 ## Version (Required)
 
